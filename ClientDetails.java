@@ -22,4 +22,7 @@ class ClientDetails {
 	}
 
 	# Testing feature branch
+	#loreum fcemvhjgv
+	# dfvece
+	# fvedfv
 }
