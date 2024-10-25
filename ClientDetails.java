@@ -25,7 +25,5 @@ class ClientDetails {
 	#loreum fcemvhjgv
 	# dfvece
 	# fvedfv
-
 	# hfbvsekjrfbeskjrfbhvsekjrb
-
 }
